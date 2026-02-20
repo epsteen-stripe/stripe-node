@@ -13,3 +13,4 @@
 !/cjs/**/*
 !/esm/**/*
 !/types/**/*
+!/llms.txt
