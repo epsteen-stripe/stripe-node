@@ -13,3 +13,5 @@
 !/cjs/**/*
 !/esm/**/*
 !/types/**/*
+!/AGENTS.md
+!/llms.txt
